@@ -76,7 +76,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # ── CONFIGURATION ─────────────────────────────────────────────
-CSV_FILE     = "goalkeeper_stats.csv"
+CSV_FILE = "data/raw/goalkeeper_stats.csv"
 SAMPLE_SIZE  = 30
 RANDOM_STATE = 42
 ALPHA        = 0.05
@@ -418,6 +418,9 @@ def wrangle_data(df, source):
           f"p={p_rho:.4f}")
     print(f"  → GES captures {'more' if abs(rho) < 0.95 else 'similar'} "
           f"information than Save% alone.")
+
+    df.to_csv("data/processed/goalkeeper_stats_processed.csv", index=False)
+    print("  ✅ Processed data saved.")
 
     return df
 
