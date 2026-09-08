@@ -1,7 +1,8 @@
 # Forward Goal Involvement — Analytic Task 4 of 4
 
-**Author:** Shreejan Shrestha (Shriz)
+**Author:** Shreejan Shrestha
 **Unit:** HIT140 Foundations of Data Science (S226) — Assessment 2, Group Project Presentation
+**Student ID** S397671
 
 Analytic question: among forward players registered in FIFA World Cup 2026 squads, is
 there a statistically significant difference in average goal involvement (goals +
