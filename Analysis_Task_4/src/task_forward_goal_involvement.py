@@ -2,7 +2,7 @@
 FIFA World Cup 2026 - Analytic Task: Forward Goal Involvement
 ================================================================
 
-Author: Shreejan Shrestha (Shriz)
+Author: Shreejan Shrestha
 CDU Master of Software Engineering - HIT140 Foundations of Data Science, S226, Assessment 2
 Individual analytic task 4 of 4 - forward player analysis
 
