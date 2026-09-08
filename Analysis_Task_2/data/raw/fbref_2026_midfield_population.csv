@@ -1,0 +1,241 @@
+player,position,team,age,minutes_90s,fouls,fouled,interceptions,tackles_won,stage,team_90s
+"Abbosbek Fayzullayev","MF","Uzbekistan",22,2.4,6,4,1,6,"Group-stage exit",3
+"Abdullah Al-Khaibari","MF","Saudi Arabia",29,2,0,2,1,1,"Group-stage exit",3
+"Akmal Mozgovoy","MF","Uzbekistan",27,2.4,0,3,2,0,"Group-stage exit",3
+"Akram Afif","FW,MF","Qatar",29,2.6,0,4,0,1,"Group-stage exit",3
+"Ali Olwan","MF","Jordan",26,3,1,4,1,0,"Group-stage exit",3
+"Amir Al Ammari","MF","Iraq",28,2.7,3,0,2,1,"Group-stage exit",3
+"Anis Ben Slimane","MF,FW","Tunisia",25,2.7,0,0,2,2,"Group-stage exit",3
+"Arda Güler","MF","Türkiye",21,3,3,10,2,3,"Group-stage exit",3
+"Barış Alper Yılmaz","MF,FW","Türkiye",26,2,4,1,0,0,"Group-stage exit",3
+"Ben Gannon-Doak","MF","Scotland",20,2.1,3,1,0,1,"Group-stage exit",3
+"Carlos Harvey","MF","Panama",26,3,8,3,0,3,"Group-stage exit",3
+"César Blackman","MF,DF","Panama",28,2,2,2,1,0,"Group-stage exit",3
+"Cristian Martínez","MF,FW","Panama",29,2.7,5,5,1,4,"Group-stage exit",3
+"Danley Jean-Jacques","MF","Haiti",26,2.9,5,3,3,6,"Group-stage exit",3
+"Edmilson Junior","MF,FW","Qatar",31,2.3,4,2,0,1,"Group-stage exit",3
+"Elijah Just","MF","New Zealand",26,2.9,3,2,2,3,"Group-stage exit",3
+"Ellyes Skhiri","MF,DF","Tunisia",31,2.8,0,1,2,1,"Group-stage exit",3
+"Federico Valverde","MF","Uruguay",27,2.6,1,0,3,2,"Group-stage exit",3
+"Hakan Çalhanoğlu","MF","Türkiye",32,2,2,1,1,3,"Group-stage exit",3
+"Hannibal Mejbri","MF","Tunisia",23,3,4,15,1,4,"Group-stage exit",3
+"Hwang In-beom","MF","Korea Republic",29,2.9,1,1,4,2,"Group-stage exit",3
+"Ibrahim Bayesh","MF,FW","Iraq",26,2.6,3,5,1,4,"Group-stage exit",3
+"Issa Laye","MF,DF","Qatar",28,3,0,3,1,1,"Group-stage exit",3
+"Jean-Ricner Bellegarde","MF","Haiti",27,2.9,4,5,3,2,"Group-stage exit",3
+"Joe Bell","MF","New Zealand",27,2.7,3,0,4,2,"Group-stage exit",3
+"John McGinn","MF","Scotland",31,2.9,2,11,0,0,"Group-stage exit",3
+"José Luis Rodríguez","MF,FW","Panama",27,2.6,4,2,0,3,"Group-stage exit",3
+"Josué Casimir","MF","Haiti",24,2,4,4,0,0,"Group-stage exit",3
+"Juninho Bacuna","MF","Curaçao",28,2.8,6,3,5,4,"Group-stage exit",3
+"Kenan Yıldız","MF","Türkiye",21,2.4,2,4,1,2,"Group-stage exit",3
+"Leandro Bacuna","MF","Curaçao",34,3,3,3,0,3,"Group-stage exit",3
+"Lewis Ferguson","MF","Scotland",26,3,5,10,4,7,"Group-stage exit",3
+"Livano Comenencia","MF","Curaçao",22,2.6,4,1,11,1,"Group-stage exit",3
+"Manuel Ugarte","MF","Uruguay",25,2,1,0,3,1,"Group-stage exit",3
+"Marko Stamenic","MF","New Zealand",24,3,4,0,4,1,"Group-stage exit",3
+"Martin Expérience","DF,MF","Haiti",27,3,7,6,4,6,"Group-stage exit",3
+"Maxi Araújo","FW,MF","Uruguay",26,2.8,2,7,0,0,"Group-stage exit",3
+"Michael Amir Murillo","DF,MF","Panama",30,3,1,7,1,3,"Group-stage exit",3
+"Michal Sadílek","MF","Czechia",27,2,0,3,2,2,"Group-stage exit",3
+"Mohamed Kanno","MF","Saudi Arabia",31,2.5,5,0,2,4,"Group-stage exit",3
+"Mohammad Mohebi","MF","IR Iran",27,2.7,1,1,1,1,"Group-stage exit",3
+"Nasser Al-Dawsari","MF","Saudi Arabia",27,2.3,7,2,4,4,"Group-stage exit",3
+"Nizar Al Rashdan","MF","Jordan",27,2.8,5,4,2,5,"Group-stage exit",3
+"Noor Al Rawabdeh","MF","Jordan",29,3,1,0,2,7,"Group-stage exit",3
+"Otabek Shukurov","MF","Uzbekistan",29,2.6,2,5,0,2,"Group-stage exit",3
+"Paik Seung-ho","MF","Korea Republic",29,2.3,1,2,1,0,"Group-stage exit",3
+"Ramin Rezaeian","DF,MF","IR Iran",36,3,2,3,2,5,"Group-stage exit",3
+"Rodrigo Bentancur","MF","Uruguay",28,3,7,5,7,5,"Group-stage exit",3
+"Ruben Providence","MF","Haiti",24,2.4,3,5,0,2,"Group-stage exit",3
+"Saeid Ezatolahi","MF","IR Iran",29,2.9,7,4,7,5,"Group-stage exit",3
+"Salem Al-Dawsari","MF","Saudi Arabia",34,2.7,3,4,1,1,"Group-stage exit",3
+"Saman Ghoddos","MF","IR Iran",32,2.3,3,0,5,4,"Group-stage exit",3
+"Sarpreet Singh","MF","New Zealand",27,2.3,2,2,0,1,"Group-stage exit",3
+"Scott McTominay","MF","Scotland",29,3,3,0,0,2,"Group-stage exit",3
+"Seol Young-woo","MF","Korea Republic",27,2.8,1,2,1,0,"Group-stage exit",3
+"Sherzod Nasrullaev","DF,MF","Uzbekistan",27,2,3,2,2,2,"Group-stage exit",3
+"Tahith Chong","MF","Curaçao",26,2.7,3,13,1,0,"Group-stage exit",3
+"Vladimír Coufal","MF,DF","Czechia",33,3,4,3,2,1,"Group-stage exit",3
+"Yoel Bárcenas","MF","Panama",32,2.8,3,3,2,0,"Group-stage exit",3
+"Zidane Iqbal","MF","Iraq",23,2.1,1,2,1,2,"Group-stage exit",3
+"Adrien Rabiot","MF","France",31,6.5,13,4,11,7,"Knockout stage",8
+"Aiden O'Neill","MF","Australia",27,4,2,8,2,2,"Knockout stage",4.3
+"Aleksandar Pavlovic","MF","Germany",22,3,13,4,2,3,"Knockout stage",4.3
+"Álex Baena","MF,FW","Spain",24,5.3,13,7,2,5,"Knockout stage",8.3
+"Alexander Bernhardsson","MF","Sweden",27,2.4,2,4,2,2,"Knockout stage",4
+"Alexis Mac Allister","MF","Argentina",27,8.3,9,12,9,12,"Knockout stage",9
+"Ali Ahmed","MF","Canada",25,2.6,1,5,3,2,"Knockout stage",5
+"Amad Diallo","MF,FW","Côte d'Ivoire",23,2.1,0,2,2,4,"Knockout stage",4
+"Amar Memić","MF","Bosnia–Herz",25,2.5,4,3,2,2,"Knockout stage",4
+"Andrés Cubas","MF","Paraguay",30,5.3,14,3,11,13,"Knockout stage",5.3
+"Anthony Elanga","MF,FW","Sweden",24,2.4,0,7,2,0,"Knockout stage",4
+"Anthony Gordon","MF","England",25,4.4,4,10,3,3,"Knockout stage",8.3
+"Antoine Semenyo","MF,FW","Ghana",26,4,6,4,0,2,"Knockout stage",4
+"Antonee Robinson","DF,MF","USA",28,3.9,4,1,6,4,"Knockout stage",5
+"Ao Tanaka","MF","Japan",27,2.1,6,2,1,6,"Knockout stage",4
+"Aurélien Tchouaméni","MF","France",26,4,4,3,6,14,"Knockout stage",8
+"Ayyoub Bouaddi","MF","Morocco",18,4.2,3,6,1,3,"Knockout stage",6.3
+"Aziz Behich","MF","Australia",35,2.4,1,4,1,4,"Knockout stage",4.3
+"Azzedine Ounahi","MF","Morocco",26,4.8,3,7,1,1,"Knockout stage",6.3
+"Benjamin Tahirovic","MF","Bosnia–Herz",23,2.6,3,2,4,4,"Knockout stage",4
+"Bilal El Khannouss","MF,FW","Morocco",22,5.1,5,6,1,7,"Knockout stage",6.3
+"Bradley Barcola","MF","France",23,4.3,5,1,1,4,"Knockout stage",8
+"Brahim Díaz","MF","Morocco",26,5.1,3,10,4,2,"Knockout stage",6.3
+"Brian Gutiérrez","MF","Mexico",22,2.2,5,3,2,1,"Knockout stage",5
+"Bruno Fernandes","MF","Portugal",31,4.7,2,8,0,5,"Knockout stage",5
+"Bruno Guimarães","MF","Brazil",28,4.6,4,7,2,6,"Knockout stage",5
+"Bukayo Saka","MF","England",24,4,4,9,1,7,"Knockout stage",8.3
+"Caleb Yirenkyi","MF","Ghana",20,2.9,7,3,3,1,"Knockout stage",4
+"Casemiro","MF","Brazil",34,4.2,6,6,6,5,"Knockout stage",5
+"Charles De Ketelaere","FW,MF","Belgium",25,3.9,2,3,5,4,"Knockout stage",6.3
+"Chemsdine Talbi","MF","Morocco",21,2,0,1,2,2,"Knockout stage",6.3
+"Christ Inao Oulaï","MF","Côte d'Ivoire",20,2.3,3,5,6,4,"Knockout stage",4
+"Christian Pulisic","MF","USA",27,2.5,1,8,0,1,"Knockout stage",5
+"Connor Metcalfe","MF","Australia",26,3.5,1,0,2,5,"Knockout stage",4.3
+"Daichi Kamada","MF","Japan",29,3.7,2,4,1,3,"Knockout stage",4
+"Daizen Maeda","MF","Japan",28,2.7,2,1,2,3,"Knockout stage",4
+"Damián Bobadilla","MF","Paraguay",24,2.1,1,1,5,3,"Knockout stage",5.3
+"Dan Ndoye","MF,FW","Switzerland",25,4.5,5,16,4,5,"Knockout stage",6.7
+"Dani Olmo","MF","Spain",28,5.5,6,10,1,5,"Knockout stage",8.3
+"Declan Rice","MF","England",27,6.2,4,0,5,3,"Knockout stage",8.3
+"Denzel Dumfries","DF,MF","Netherlands",30,4.3,6,3,1,6,"Knockout stage",4.3
+"Deroy Duarte","MF","Cabo Verde",26,2.9,4,1,6,5,"Knockout stage",4.3
+"Désiré Doué","MF","France",21,4.4,4,8,2,6,"Knockout stage",8
+"Diego Gómez","MF","Paraguay",23,3.4,5,1,9,6,"Knockout stage",5.3
+"Djibril Sow","MF","Switzerland",29,2.8,5,4,2,1,"Knockout stage",6.7
+"Eberechi Eze","MF","England",27,2.3,2,4,0,0,"Knockout stage",8.3
+"Edson Álvarez","MF,DF","Mexico",28,2.7,5,2,3,6,"Knockout stage",5
+"Elliot Anderson","MF","England",23,7,9,13,8,18,"Knockout stage",8.3
+"Emam Ashour","MF","Egypt",28,4,2,13,4,2,"Knockout stage",5.3
+"Enzo Fernández","MF","Argentina",25,7.3,12,6,6,7,"Knockout stage",9
+"Erik Lira","MF","Mexico",26,3.8,3,4,2,3,"Knockout stage",5
+"Esmir Bajraktarevic","MF","Bosnia–Herz",21,2.6,1,2,3,0,"Knockout stage",4
+"Fabian Rieder","MF,FW","Switzerland",24,3.4,3,6,1,3,"Knockout stage",6.7
+"Fabián Ruiz Peña","MF","Spain",30,3.6,1,3,4,3,"Knockout stage",8.3
+"Fares Chaïbi","MF","Algeria",23,4,3,2,3,5,"Knockout stage",4
+"Felix Nmecha","MF","Germany",25,3,3,3,2,9,"Knockout stage",4.3
+"Florian Wirtz","MF","Germany",23,4,1,3,2,6,"Knockout stage",4.3
+"Franck Kessié","MF","Côte d'Ivoire",29,3.8,7,2,0,4,"Knockout stage",4
+"Fredrik Aursnes","MF,DF","Norway",30,3.4,5,3,1,8,"Knockout stage",6.3
+"Frenkie de Jong","MF","Netherlands",29,3.6,6,6,8,7,"Knockout stage",4.3
+"Gabriel Gudmundsson","MF,DF","Sweden",27,3.7,5,7,5,3,"Knockout stage",4
+"Gilberto Mora","MF","Mexico",17,2.4,3,3,2,2,"Knockout stage",5
+"Granit Xhaka","MF","Switzerland",33,6.7,4,12,4,4,"Knockout stage",6.7
+"Gustavo Puerta","MF","Colombia",22,5.2,9,8,3,3,"Knockout stage",5.3
+"Hamdy Fathy","DF,MF","Egypt",31,2.6,3,2,2,3,"Knockout stage",5.3
+"Hans Vanaken","MF","Belgium",33,3.5,0,6,1,1,"Knockout stage",6.3
+"Ibrahim Maza","MF,FW","Algeria",20,3.9,1,5,0,2,"Knockout stage",4
+"Ibrahim Sangaré","MF","Côte d'Ivoire",28,3,2,4,6,5,"Knockout stage",4
+"Idrissa Gueye","MF","Senegal",36,4,2,2,2,4,"Knockout stage",4.3
+"Ismaila Sarr","MF,FW","Senegal",28,4,1,9,2,1,"Knockout stage",4.3
+"Ivan Bašić","MF","Bosnia–Herz",24,2,2,3,3,1,"Knockout stage",4
+"Ivan Perišić","MF,DF","Croatia",37,4,4,1,4,4,"Knockout stage",4
+"Ivan Šunjić","MF","Bosnia–Herz",29,2.2,7,0,0,3,"Knockout stage",4
+"Jackson Irvine","MF","Australia",33,2.5,3,3,1,1,"Knockout stage",4.3
+"Jamal Musiala","MF","Germany",23,3,5,11,1,5,"Knockout stage",4.3
+"James Rodríguez","FW,MF","Colombia",34,3.5,0,5,1,1,"Knockout stage",5.3
+"Jamiro Monteiro","MF","Cabo Verde",32,3.1,4,2,4,4,"Knockout stage",4.3
+"Jefferson Lerma","MF","Colombia",31,4.6,6,5,5,1,"Knockout stage",5.3
+"Jeremy Doku","MF","Belgium",24,3.4,4,18,3,1,"Knockout stage",6.3
+"Jhon Arias","MF","Colombia",28,4.2,5,2,2,9,"Knockout stage",5.3
+"João Félix","MF","Portugal",26,2.2,3,6,3,4,"Knockout stage",5
+"João Neves","MF","Portugal",21,4.3,1,4,4,7,"Knockout stage",5
+"Johan Manzambi","MF,FW","Switzerland",20,2.2,3,3,0,0,"Knockout stage",6.7
+"John Yeboah","MF","Ecuador",25,3.5,0,4,3,3,"Knockout stage",4
+"Jordy Bos","MF,DF","Australia",23,3.4,4,4,3,3,"Knockout stage",4.3
+"Josip Stanišić","DF,MF","Croatia",26,4,0,4,5,2,"Knockout stage",4
+"Jude Bellingham","MF","England",22,6.8,9,17,3,10,"Knockout stage",8.3
+"Julián Quiñones","FW,MF","Mexico",29,4.6,5,7,0,0,"Knockout stage",5
+"Junya Itō","MF","Japan",33,2.4,2,5,1,2,"Knockout stage",4
+"Kaishū Sano","MF","Japan",25,3,4,1,4,2,"Knockout stage",4
+"Keito Nakamura","MF","Japan",25,3.4,3,1,1,3,"Knockout stage",4
+"Kerim Alajbegović","MF","Bosnia–Herz",18,3.1,4,6,2,0,"Knockout stage",4
+"Kevin De Bruyne","MF","Belgium",34,4.2,2,4,0,2,"Knockout stage",6.3
+"Kevin Pina","MF","Cabo Verde",29,3.9,5,3,3,7,"Knockout stage",4.3
+"Konrad Laimer","MF,DF","Austria",29,4,6,3,2,6,"Knockout stage",4
+"Kwasi Sibo","MF","Ghana",27,2.8,7,1,2,0,"Knockout stage",4
+"Lamine Camara","MF","Senegal",22,2.8,5,3,2,1,"Knockout stage",4.3
+"Lamine Yamal","MF,FW","Spain",18,6.8,14,9,2,9,"Knockout stage",8.3
+"Leandro Paredes","MF","Argentina",31,5.3,9,3,5,6,"Knockout stage",9
+"Leandro Trossard","MF,FW","Belgium",31,5.6,4,8,4,1,"Knockout stage",6.3
+"Leroy Sané","MF","Germany",30,3.6,3,2,2,3,"Knockout stage",4.3
+"Lucas Bergvall","MF","Sweden",20,2,7,4,2,2,"Knockout stage",4
+"Lucas Paquetá","MF","Brazil",28,2.6,3,6,5,4,"Knockout stage",5
+"Luis Díaz","FW,MF","Colombia",29,5.3,7,9,1,0,"Knockout stage",5.3
+"Luis Romo","MF","Mexico",31,2.9,1,3,4,4,"Knockout stage",5
+"Luka Modrić","MF","Croatia",40,3.5,4,3,0,3,"Knockout stage",4
+"Malik Tillman","MF","USA",24,4,3,13,5,7,"Knockout stage",5
+"Manu Koné","MF","France",25,4.3,6,7,3,5,"Knockout stage",8
+"Marcel Sabitzer","MF","Austria",32,4,2,3,6,2,"Knockout stage",4
+"Marcus Rashford","MF","England",28,2.5,5,1,0,2,"Knockout stage",8.3
+"Martin Baturina","MF,FW","Croatia",23,3.6,1,14,1,2,"Knockout stage",4
+"Martin Ødegaard","MF","Norway",27,5.2,3,4,3,4,"Knockout stage",6.3
+"Marwan Attia","MF","Egypt",27,4.8,8,1,3,3,"Knockout stage",5.3
+"Mateo Kovačić","MF","Croatia",32,3,3,3,2,3,"Knockout stage",4
+"Matías Galarza","MF","Paraguay",24,4.3,10,9,7,11,"Knockout stage",5.3
+"Michael Olise","MF","France",24,7.2,5,16,3,8,"Knockout stage",8
+"Micky van de Ven","DF,MF","Netherlands",25,2.9,5,1,2,3,"Knockout stage",4.3
+"Miguel Almirón","MF,FW","Paraguay",32,3.1,2,7,3,7,"Knockout stage",5.3
+"Mikel Merino","MF","Spain",29,2.2,6,8,3,2,"Knockout stage",8.3
+"Mohamed Salah","FW,MF","Egypt",33,4.7,5,13,2,0,"Knockout stage",5.3
+"Mohanad Lasheen","MF","Egypt",30,4,5,3,8,11,"Knockout stage",5.3
+"Moisés Caicedo","MF","Ecuador",24,4,5,4,4,6,"Knockout stage",4
+"Morgan Rogers","MF","England",23,3.8,5,5,0,3,"Knockout stage",8.3
+"Mostafa Ziko","FW,MF","Egypt",29,4.1,6,5,2,4,"Knockout stage",5.3
+"Nabil Bentaleb","MF","Algeria",31,3.2,2,3,3,4,"Knockout stage",4
+"Nathan Saliba","MF","Canada",22,2,5,2,4,4,"Knockout stage",5
+"Neil El Aynaoui","MF","Morocco",24,6.2,15,7,8,9,"Knockout stage",6.3
+"Nestory Irankunda","FW,MF","Australia",20,2.9,4,5,1,0,"Knockout stage",4.3
+"Ngal'Ayel Mukau","MF","Congo DR",21,2.2,3,4,3,2,"Knockout stage",4
+"Nicolás González","MF","Argentina",28,2.9,4,3,1,3,"Knockout stage",9
+"Nicolas Raskin","MF","Belgium",25,3.8,12,3,2,5,"Knockout stage",6.3
+"Nicolas Seiwald","MF","Austria",25,3.5,1,1,4,5,"Knockout stage",4
+"Nikola Vlašić","MF","Croatia",28,2.1,5,0,1,2,"Knockout stage",4
+"Nilson Angulo","MF","Ecuador",22,2.4,4,3,2,1,"Knockout stage",4
+"Noah Sadiki","MF","Congo DR",21,2.9,2,3,2,4,"Knockout stage",4
+"Noni Madueke","MF","England",24,3.2,2,3,2,4,"Knockout stage",8.3
+"Omar Marmoush","FW,MF","Egypt",27,3.6,3,8,2,3,"Knockout stage",5.3
+"Oswin Appollis","MF,FW","South Africa",24,2.8,1,2,1,3,"Knockout stage",4
+"Ousmane Dembélé","MF","France",29,6.6,0,4,0,2,"Knockout stage",8
+"Pape Gueye","MF","Senegal",27,2.6,4,2,4,1,"Knockout stage",4.3
+"Patrick Berg","MF","Norway",28,4.9,4,2,2,7,"Knockout stage",6.3
+"Paul Okon-Engstler","MF","Australia",21,2.2,3,2,5,2,"Knockout stage",4.3
+"Paul Wanner","MF","Austria",20,2.6,4,2,2,1,"Knockout stage",4
+"Pedri","MF","Spain",23,5.5,4,5,10,8,"Knockout stage",8.3
+"Pedro Neto","MF","Portugal",26,3.9,4,4,0,2,"Knockout stage",5
+"Pedro Vite","MF","Ecuador",24,4,2,5,5,11,"Knockout stage",4
+"Petar Sučić","MF,FW","Croatia",22,3.2,7,6,1,2,"Knockout stage",4
+"Rayan","FW,MF","Brazil",19,3.2,5,4,3,4,"Knockout stage",5
+"Remo Freuler","MF","Switzerland",34,6.6,8,3,8,5,"Knockout stage",6.7
+"Ritsu Doan","MF","Japan",27,3.1,6,4,1,1,"Knockout stage",4
+"Riyad Mahrez","MF","Algeria",35,2.9,1,7,1,2,"Knockout stage",4
+"Roberto Alvarado","FW,MF","Mexico",27,4.8,3,5,2,3,"Knockout stage",5
+"Rodri","MF","Spain",29,8,11,9,3,20,"Knockout stage",8.3
+"Rodrigo De Paul","MF","Argentina",32,5.5,2,5,6,4,"Knockout stage",9
+"Romano Schmid","MF,FW","Austria",26,2.9,3,4,0,4,"Knockout stage",4
+"Ruben Vargas","MF","Switzerland",27,3.2,6,6,2,2,"Knockout stage",6.7
+"Ryan Gravenberch","MF","Netherlands",24,3.8,5,3,6,1,"Knockout stage",4.3
+"Ryan Mendes","FW,MF","Cabo Verde",36,3.7,1,2,5,2,"Knockout stage",4.3
+"Sadio Mané","MF,FW","Senegal",34,4,4,10,3,2,"Knockout stage",4.3
+"Samuel Moutoussamy","MF","Congo DR",29,3.7,8,1,1,8,"Knockout stage",4
+"Sander Berge","MF","Norway",28,5.3,6,2,9,4,"Knockout stage",6.3
+"Sebastian Berhalter","MF","USA",25,2.1,5,6,3,0,"Knockout stage",5
+"Sergiño Dest","MF","USA",25,3.3,2,4,5,1,"Knockout stage",5
+"Sphephelo Sithole","MF","South Africa",27,2.5,5,1,5,5,"Knockout stage",4
+"Stephen Eustáquio","MF","Canada",29,4.4,2,7,3,5,"Knockout stage",5
+"Tajon Buchanan","MF","Canada",27,4.2,5,8,1,5,"Knockout stage",5
+"Teboho Mokoena","MF","South Africa",29,3,3,6,5,3,"Knockout stage",4
+"Thalente Mbatha","MF","South Africa",26,2.9,4,0,5,2,"Knockout stage",4
+"Thapelo Maseko","MF,FW","South Africa",22,2.7,4,10,2,1,"Knockout stage",4
+"Thiago Almada","MF","Argentina",25,2.7,2,2,0,4,"Knockout stage",9
+"Thomas Partey","MF","Ghana",33,3,2,5,6,4,"Knockout stage",4
+"Tijjani Reijnders","MF","Netherlands",27,2.2,0,3,2,0,"Knockout stage",4.3
+"Tyler Adams","MF","USA",27,3.8,5,6,8,5,"Knockout stage",5
+"Victor Lindelöf","DF,MF","Sweden",31,4,3,0,4,1,"Knockout stage",4
+"Vitinha","MF","Portugal",26,4.2,4,5,2,0,"Knockout stage",5
+"Weston McKennie","MF","USA",27,4.9,8,2,7,7,"Knockout stage",5
+"Xaver Schlager","MF","Austria",28,2.6,6,0,7,3,"Knockout stage",4
+"Yan Diomandé","MF,FW","Côte d'Ivoire",19,3.7,2,7,4,6,"Knockout stage",4
+"Yasin Ayari","MF","Sweden",22,3.8,4,8,3,4,"Knockout stage",4
+"Youri Tielemans","MF","Belgium",29,5.3,7,10,2,6,"Knockout stage",6.3

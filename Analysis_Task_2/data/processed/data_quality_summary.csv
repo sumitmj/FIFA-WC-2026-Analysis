@@ -1,0 +1,8 @@
+check,observed,expected,passed
+eligible_rows,240,240,True
+unique_player_team_rows,240,240,True
+missing_primary_outcomes,0,0,True
+minimum_minutes,180,180,True
+group_exit_population,60,60,True
+knockout_population,180,180,True
+national_teams,48,48,True

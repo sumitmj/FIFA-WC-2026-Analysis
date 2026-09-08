@@ -1,0 +1,13 @@
+{
+  "dataset": "FBref 2026 World Cup eligible midfield population",
+  "source_url": "https://fbref.com/en/comps/1/misc/World-Cup-Stats",
+  "retrieved_local_date": "2026-09-08",
+  "retrieved_timezone": "Australia/Sydney",
+  "file": "fbref_2026_midfield_population.csv",
+  "sha256": "92ccca51b2331406b5dceb1ee5462a0c1d241f7208aff1c6680cd303919a398d",
+  "rows_excluding_header": 240,
+  "national_teams": 48,
+  "eligibility": "position contains MF and minutes_90s >= 2.0",
+  "stage_rule": "Group-stage exit when team_90s == 3.0; Knockout stage when team_90s > 3.0",
+  "notes": "Frozen source-aligned extract. Use src/acquire_fbref.py to create a separately named refresh for review."
+}

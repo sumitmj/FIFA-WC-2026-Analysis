@@ -1,0 +1,4 @@
+diagnostic,group,statistic,p_value
+Shapiro-Wilk normality,Group-stage exit,0.9340728772453524,0.007906236849229406
+Shapiro-Wilk normality,Knockout stage,0.9703001249041031,0.23803421148540688
+Brown-Forsythe variance check,Both groups,0.680626908086862,0.4113745908864563

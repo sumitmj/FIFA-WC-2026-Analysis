@@ -1,0 +1,18 @@
+{
+  "bootstrap_ci_high": 0.40746372586790586,
+  "bootstrap_ci_low": -0.12948459133547624,
+  "ci_high": 0.4124699417347379,
+  "ci_low": -0.1385057102955733,
+  "cohens_d": 0.19736448166461557,
+  "degrees_freedom": 97.3977658285249,
+  "difference": 0.1369821157195823,
+  "group_exit_mean": 0.9149934605346899,
+  "hedges_g": 0.1958501761786978,
+  "knockout_mean": 1.0519755762542722,
+  "p_value_two_sided": 0.32617486645384614,
+  "permutation_p_two_sided": 0.33056694330566944,
+  "population_n": 240,
+  "sample_n": 100,
+  "standard_error": 0.13881131454276366,
+  "t_statistic": 0.9868224083230778
+}
