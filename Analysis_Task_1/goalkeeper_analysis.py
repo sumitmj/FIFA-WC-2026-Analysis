@@ -4,7 +4,7 @@
 # Course:         Master of Information Technology (Software Engineering)
 # University:     Charles Darwin University
 # Assessment:     Assessment 2 — Group Project
-# Author:         Sumit Maharjan | Student ID: 397861
+# Author:         Sumit Maharjan | Student ID: S397861
 
 #
 # ── ANALYTIC QUESTION ────────────────────────────────────────
